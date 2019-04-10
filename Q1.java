@@ -8,7 +8,7 @@ class Q1
 		
 		Scanner vsp=new Scanner(System.in);
 		System.out.print("Enter value: ");
-		a=azahar.nextInt();
+		a=vsp.nextInt();
 	
 		if(a<0)
 		System.out.print("Negative value");
